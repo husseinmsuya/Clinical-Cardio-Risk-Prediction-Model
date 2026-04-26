@@ -54,4 +54,7 @@ The models were evaluated using:
 - Training Accuracy: 96%
 - Test Accuracy: 95%
 
+## 🌐 Live Demo
+Click here to use the app:
+https://clinical-cardio-risk-prediction-model.onrender.com
 ---
